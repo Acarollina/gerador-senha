@@ -7,7 +7,7 @@ let password = document.querySelector("#password");
 
 let containerPassword = document.querySelector("#container-password")
 
-let charset = "abcdefghijlmnopqrstuvwxyzABCDEFGHIJLMNOPQRSTUVWXYZ@!#&%";
+let charset = "abcdefghijlmnopqrstuvwxyzABCDEFGHIJLMNOPQRSTUVWXYZ@!#&%1234567890";
 let novaSenha = "";
 
 tamanhoPassword.innerHTML = elementoSlider.value;
