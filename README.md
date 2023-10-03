@@ -31,5 +31,4 @@ Um gerador de senhas aleatórias é uma ferramenta que te libera de ter que cria
 - [ ] Gerar senhas fortes e aleatórias
 
 
-### Autor
-<img src="https://github.com/Acarollina/gerador-senha/assets/141369366/709755d3-3986-4353-996d-52fb2f589607" width="70px" />
+
